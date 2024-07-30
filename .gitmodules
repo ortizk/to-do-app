@@ -1,0 +1,3 @@
+[submodule "json-api"]
+	path = json-api
+	url = https://github.com/tumetus/json-api.git
